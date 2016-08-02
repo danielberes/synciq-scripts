@@ -6,9 +6,9 @@ Various scripts to use the SyncIQ local library
 Currently tested on OneFS Versions:
 
 * 7.1.1.4
-* 7.1.1.8 (planned)
-* 7.2.0.1 (planned)
-* 7.2.1.1 (planned)
+* 7.1.1.8
+* 7.2.0.1
+* 7.2.1.1
 * 8.0.0.0 (planned)
 
 ### How does it work
