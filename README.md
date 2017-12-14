@@ -1,4 +1,4 @@
-# SynIQ-Scripts
+# SyncIQ-Scripts
 Various scripts to use the SyncIQ local library
 
 ---
